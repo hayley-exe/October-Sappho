@@ -5,6 +5,19 @@
 .early {
     background-color: lavenderblush !important;  
 }
+.later {
+    background-color: rgb(252, 231, 238) !important;    
+}
+.achievements {
+    background-color: rgb(255, 214, 227) !important;
+    text-align: center;
+}
+
+.box {
+    padding: 5px;
+    border: 10px;
+}
 .body {
-    background-color: lavender !important;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace; 
 }
